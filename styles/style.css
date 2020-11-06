@@ -6,3 +6,59 @@ Green: #00B172
 White: #FFF
 
 */
+
+* {
+    box-sizing: border-box;
+  }
+  
+  body {
+      font-family: 1A1A1A;
+      margin: 0;
+      padding: 0;
+      overflow: scroll;
+      position: relative
+
+  }
+
+  .navbar{
+      padding: 25px 20px;
+      width: 80%;
+      height: 50px;
+      background: yellow;
+  }
+  ul {
+      margin: 0;
+      list-style: none;
+      display: inline;
+      justify-content: flex-start;
+  }
+  li {
+
+    font-size: 18px;
+    font-weight: 500;
+    float: left;
+    color: black;
+    margin-right: 50px;
+    cursor: pointer;
+    list-style: none;
+    justify-content: flex-end;
+  }
+  .brand{
+      margin-right: 380px;
+      margin-left: 20px;
+      font-size: 25px;
+      color: red;
+  }
+
+  .spotify-logo{
+      im
+  }
+
+  .header{
+      background-image: url('/images/landing.jpg');
+      color: white
+  }
+
+  .header2{
+      background-color: #00B172;
+  }
